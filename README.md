@@ -8,6 +8,8 @@ Pros of this assignment:
 2) One can see the time difference i.e the time taken by the vectorized implementation was 1/10th of the non vectorized implementation.
                     
 3) Backpropagation plays the key role in neural network training which was implemented from the base i.e without using any framework rather calculating derivatives and propagating it backwards using chain rule.
+
+
 Cons of this assignment:                        
 
 1) For me it took quite some extra time and effort to complete this assignment. Otherwise the content is extraordinary.
